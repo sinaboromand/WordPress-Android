@@ -5,7 +5,7 @@ buildscript {
     ext.kotlin_coroutines_version = '1.3.9'
     ext.coroutinesVersion = '1.3.9'
     ext.kotlin_ktx_version = '1.2.0'
-    ext.wordPressUtilsVersion = '63-ec2db684f228ff172116c3cf78dc2e529d42f0e4'
+    ext.wordPressUtilsVersion = '67-0f279c5973cb77feab1ee36c168d07e1e043a68b'
     ext.detektVersion = '1.15.0'
     ext.gutenbergMobileVersion = 'develop-2d631f6d9b2d928759696d07ac8e4ae910c38c69'
 
